@@ -4,13 +4,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahanashreedhar27/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:sahanashreedhar27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/sahanashreedhar27">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://sahana-portfolio-client.vercel.app/">
+    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="40" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sahanashreedhar27&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahanashreedhar27&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
 </p>
